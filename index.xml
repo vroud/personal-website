@@ -5,7 +5,7 @@
     <link>https://roud.tech/</link>
       <atom:link href="https://roud.tech/index.xml" rel="self" type="application/rss+xml" />
     <description>Vitaliy Roud</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://roud.tech/media/icon_hu9abfd8dca9502eafa578db8c63a4c8b0_7523_512x512_fill_lanczos_center_3.png</url>
       <title>Vitaliy Roud</title>
@@ -29,6 +29,51 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consultancy/Policy Advice</title>
+      <link>https://roud.tech/consultancy/consultancy/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://roud.tech/consultancy/consultancy/</guid>
+      <description>&lt;p&gt;As a seasoned team member in consultancy and policy advice projects, I have had the opportunity to contribute to initiatives aiming to enhance policymaking, corporate strategies, drive organizational transformation. My contributions have often involved providing knowledge, organizing information, offering creative inputs,  performing comprehensive data analysis and presenting the work to the clients.&lt;/p&gt;
+&lt;p&gt;My skills cover all stages of data-driven decision making, from initial bluesky explorations and creating guiding frameworks to setting up indicators and developing measurement strategies. This also includes analyzing and visualizing data, presenting findings, and offering interpretations and recommendations based on evidence.&lt;/p&gt;
+&lt;p&gt;I am experienced with various tools like R, Python, Quarto, advanced Excel/VBA, and SQL (not to mention classical Stata, SPSS, etc.), and can use them to help improve your data analysis workflows. I can work with different types of data, from survey microdata and aggregate international statistics to composite and aggregate indexes, bibliometrics, and any other data we can gather using modern tools. I strive to align the data findings with the current research agenda and practical discussions.&lt;/p&gt;
+&lt;p&gt;I am used to work in a timely and result-oriented manner. I look forward to potential collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://roud.tech/research/research/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://roud.tech/research/research/</guid>
+      <description>&lt;p&gt;My research expertise builds around the following areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Measurement of Innovation: How to measure innovation, dissemination of technologies or technological inequalities? My experience in innovation surveys, composite indexes, and scoreboards allows me to identify micro, macro, and meso-level indicators to capture firm strategies, development, change, technological upgrading, dissemination of advanced production technologies and organizational practices, impact of R&amp;amp;D, and research evaluation.&lt;/li&gt;
+&lt;li&gt;Business Innovation Studies: My expertise lies in innovation strategies, organizational culture for innovation, open innovation, ecological innovation, and transformative innovation.&lt;/li&gt;
+&lt;li&gt;Innovation, Technology and Society: user innovation and grassroots innovation, people&amp;rsquo;s attitudes towards new technologies and acceptance of new technologies.&lt;/li&gt;
+&lt;li&gt;Governance of Innovation Systems: I specialize in technological upgrading and catch-up, transformative dynamics, path dependence and bounded change, efficiency of institutions and linkages, industry-science cooperation, patterns of innovation behavior, taxonomies of innovation, and evidence for systemic and diagnosis-based innovation policy.&lt;/li&gt;
+&lt;li&gt;(Micro-)econometrics of Innovation and Technology and Causal Inference: I have skills in machine learning-enabled studies of innovation and digital trace of innovation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am committed to exploring the complex context of STI and understanding the unique features that drive innovation. As such, I am excited to share my knowledge and collaborate with teams and organizations that seek to explore innovation capacities and develop evidence-based policies. Please feel free to write me  for further exploring our mutual interests.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://roud.tech/teaching/teaching/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://roud.tech/teaching/teaching/</guid>
+      <description>&lt;p&gt;I teach:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Courses about better using data for informed decision-making: Data and Decisions; Introductory Statistics; Econometrics of Causal Inference&lt;/li&gt;
+&lt;li&gt;Courses covering hot topics in innovation studies: Innovation management, Economics of innovation and technological change.
+— Introductory courses to engage newcommers into the beautiy of the contemporary social sciences and economic analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Having had the opportunity to teach at both Master&amp;rsquo;s and Bachelor&amp;rsquo;s levels, and conduct professional training workshops, I can offer a variety of educational services. I&amp;rsquo;ve also been fortunate to guide and mentor students through their theses and PhD dissertations.&lt;/p&gt;
+&lt;p&gt;One of the areas I enjoy working on is helping others develop their research skills. This covers understanding and using different research methods, learning to organize their work effectively, and mastering the activities necessary to successfully complete research projects. My aim is to assist individuals in improving their research capabilities in a supportive and easy-to-understand manner.&lt;/p&gt;
 </description>
     </item>
     
@@ -216,7 +261,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-594876132&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-935421867&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +271,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-594876132&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-935421867&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

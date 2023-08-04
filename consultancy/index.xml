@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consultancies | Heterogeneity of Innovation</title>
+    <link>https://roud.tech/consultancy/</link>
+      <atom:link href="https://roud.tech/consultancy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Consultancies</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://roud.tech/media/icon_hu9abfd8dca9502eafa578db8c63a4c8b0_7523_512x512_fill_lanczos_center_3.png</url>
+      <title>Consultancies</title>
+      <link>https://roud.tech/consultancy/</link>
+    </image>
+    
+    <item>
+      <title>Consultancy/Policy Advice</title>
+      <link>https://roud.tech/consultancy/consultancy/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://roud.tech/consultancy/consultancy/</guid>
+      <description>&lt;p&gt;As a seasoned team member in consultancy and policy advice projects, I have had the opportunity to contribute to initiatives aiming to enhance policymaking, corporate strategies, drive organizational transformation. My contributions have often involved providing knowledge, organizing information, offering creative inputs,  performing comprehensive data analysis and presenting the work to the clients.&lt;/p&gt;
+&lt;p&gt;My skills cover all stages of data-driven decision making, from initial bluesky explorations and creating guiding frameworks to setting up indicators and developing measurement strategies. This also includes analyzing and visualizing data, presenting findings, and offering interpretations and recommendations based on evidence.&lt;/p&gt;
+&lt;p&gt;I am experienced with various tools like R, Python, Quarto, advanced Excel/VBA, and SQL (not to mention classical Stata, SPSS, etc.), and can use them to help improve your data analysis workflows. I can work with different types of data, from survey microdata and aggregate international statistics to composite and aggregate indexes, bibliometrics, and any other data we can gather using modern tools. I strive to align the data findings with the current research agenda and practical discussions.&lt;/p&gt;
+&lt;p&gt;I am used to work in a timely and result-oriented manner. I look forward to potential collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
